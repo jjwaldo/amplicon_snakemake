@@ -1,3 +1,6 @@
+#still need to create a conda environment including channels for bioconda conda-forge and biobuilds 
+#along with installing fastx_toolkit and flash2 (using bioconda)
+
 NUMBER=['JH2_dCN_dCC_hTET1CD_320796w_NG5']
 
 rule all:
